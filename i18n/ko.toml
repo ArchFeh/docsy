@@ -42,11 +42,11 @@ other = "문서에 이슈 생성"
 [post_create_project_issue]
 other = "프로젝트에 이슈 생성"
 [post_posts_in]
-other = "Posts in"
+other = "의 게시물"
 [post_reading_time]
-other = "minute read"
+other = "분 읽기"
 [post_less_than_a_minute_read]
-other = "less than a minute"
+other = "일분보다 적게"
 
 # Print support
 [print_printable_section]
@@ -60,18 +60,18 @@ other = "전체 섹션 프린트"
 
 # Community
 [community_join]
-other = "Join the {{ .Site.Title }} community"
+other = "{{ .Site.Title }} 커뮤니티에 가입하세요"
 [community_introduce]
-other = "{{ .Site.Title }} is an open source project that anyone in the community can use, improve, and enjoy. We'd love you to join us! Here's a few ways to find out what's happening and get involved."
+other = "{{ .Site.Title }} 은 커뮤니티의 누구나 사용하고, 개선하고, 즐길 수 있는 오픈 소스 프로젝트입니다. 우리는 당신이 우리와 함께하길 바랍니다! 무슨 일이 일어나고 있는지 알아보고 참여할 수 있는 몇 가지 방법은 다음과 같습니다."
 [community_learn]
-other = "Learn and Connect"
+other = "배우고 연결하기"
 [community_using]
-other = "Using or want to use {{ .Site.Title }}? Find out more here:"
+other = "{{ .Site.Title }} 을(를) 사용 중이거나 사용하고 싶으십니까? 여기에서 자세한 내용을 알아보세요:"
 [community_develop]
-other = "Develop and Contribute"
+other = "개발 및 기여"
 [community_contribute]
-other = "If you want to get more involved by contributing to {{ .Site.Title }}, join us here:"
+other = "{{ .Site.Title }} 에 기여하여 더 많은 참여를 원하시면 여기에서 가입하세요."
 [community_how_to]
-other = "You can find out how to contribute to {{ .Site.Title }} in our"
+other = "{{ .Site.Title }} 에 기여하는 방법은 다음에서 확인할 수 있습니다."
 [community_guideline]
-other = "Contribution Guidelines"
+other = "기여 지침"
