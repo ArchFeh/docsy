@@ -46,9 +46,9 @@ other = "プロジェクトのissueを作成"
 [post_posts_in]
 other = "記事一覧"
 [post_reading_time]
-other = "minute read"
+other = "分読み"
 [post_less_than_a_minute_read]
-other = "less than a minute"
+other = "一分未満"
 
 # Print support
 [print_printable_section]
@@ -62,18 +62,18 @@ other = "セクション全体を印刷"
 
 # Community
 [community_join]
-other = "Join the {{ .Site.Title }} community"
+other = "{{ .Site.Title }} コミュニティに参加してください"
 [community_introduce]
-other = "{{ .Site.Title }} is an open source project that anyone in the community can use, improve, and enjoy. We'd love you to join us! Here's a few ways to find out what's happening and get involved."
+other = "{{ .Site.Title }} は、コミュニティ内の誰もが使用、改善、楽しむことができるオープンソース プロジェクトです。 ぜひご参加ください。 何が起こっているかを知り、参加するためのいくつかの方法を次に示します。"
 [community_learn]
-other = "Learn and Connect"
+other = "学び、つながる"
 [community_using]
-other = "Using or want to use {{ .Site.Title }}? Find out more here:"
+other = "{{ .Site.Title }} を使用していますか、または使用したいですか? 詳細については、こちらをご覧ください:"
 [community_develop]
-other = "Develop and Contribute"
+other = "開発と貢献"
 [community_contribute]
-other = "If you want to get more involved by contributing to {{ .Site.Title }}, join us here:"
+other = "{{ .Site.Title }} に貢献してさらに参加したい場合は、ここから参加してください:"
 [community_how_to]
-other = "You can find out how to contribute to {{ .Site.Title }} in our"
+other = "{{ .Site.Title }} に貢献する方法については、こちらをご覧ください。"
 [community_guideline]
-other = "Contribution Guidelines"
+other = "貢献ガイドライン"
