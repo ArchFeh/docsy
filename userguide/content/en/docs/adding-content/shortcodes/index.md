@@ -174,14 +174,14 @@ This is a warning.
 The **pageinfo** shortcode creates a text box that you can use to add banner information for a page: for example, letting users know that the page contains placeholder content, that the content is deprecated, or that it documents a beta feature.
 
 ```go-html-template
-{{%/* pageinfo color="primary" */%}}
+{{%/* pageinfo color="info" */%}}
 This is placeholder content.
 {{%/* /pageinfo */%}}
 ```
 
 Renders to:
 
-{{% pageinfo color="primary" %}}
+{{% pageinfo color="info" %}}
 This is placeholder content
 {{% /pageinfo %}}
 
@@ -286,6 +286,10 @@ description: Reference for the Pet Store API
 {{< /tabpane >}}
 
 You can customize Swagger UI's look and feel by overriding Swagger's CSS in `themes/docsy/assets/scss/_swagger.scss`.
+
+{{% alert title="Warning" color="warning" %}}
+This shortcode relies on JavaScript libraries hosted on unpkg. Make sure that you can access unpkg from your network when building or loading your site.
+{{% /alert %}}
 
 ### redoc
 

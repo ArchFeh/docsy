@@ -1,9 +1,8 @@
 baseURL: https://www.docsy.dev/
-title: &title Docsy
-description: &desc Docsy does docs
+title: Docsy
 enableRobotsTXT: true
-theme: [docsy]
 enableGitInfo: true
+theme: [docsy]
 
 pygmentsCodeFences: true
 pygmentsUseClasses: false
@@ -32,8 +31,7 @@ languages:
   en:
     languageName: English
     params:
-      title: *title
-      description: *desc
+      description: Docsy does docs
 
 markup:
   goldmark:
@@ -43,8 +41,7 @@ markup:
     renderer:
       unsafe: true
   highlight:
-    noClasses: false
-    style: tango
+    noClasses: false # Required for dark-mode
 
 params:
   copyright:
@@ -55,7 +52,7 @@ params:
   privacy_policy: https://policies.google.com/privacy
   version_menu: Releases
   archived_version: false
-  version: 0.9.1
+  version: 0.10.0
   url_latest_version: https://example.com
   github_repo: https://github.com/google/docsy
   github_project_repo: https://github.com/google/docsy
@@ -71,6 +68,7 @@ params:
   search:
     # algolia:
   ui:
+    showLightDarkModeMenu: true
     sidebar_cache_limit: 10
     sidebar_menu_compact: true
     sidebar_menu_foldable: false
