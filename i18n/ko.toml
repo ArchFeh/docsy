@@ -25,6 +25,21 @@ other = "All Rights Reserved"
 [footer_privacy_policy]
 other = "개인정보 보호 정책"
 
+# Used in sentences newsletter subscribe
+[subs_name]
+other = "이름"
+
+[subs_mail]
+other = "이메일"
+
+[subs_button]
+other = "신청"
+
+[subs_join]
+other = "구독 가입할게요!"
+
+[subs_sent]
+other = "오픈 소스 소프트웨어로서 SDK는 개발자에게 가장 고품질의 편리한 개발 도구와 자원을 제공하는 것을 목표로 합니다.저희와 긴밀히 연락하여 우리의 최신 동향과 업데이트를 가장 먼저 얻고 싶습니까?지금 바로 저희 웹사이트를 구독하시면 최신 버전의 공지사항, 개발 노하우, 모범 사례, 그리고 다른 개발자들과 교류할 수 있는 기회를 얻게 됩니다. 구독자 대열에 합류해서 더 강력하고 더 훌륭한 개발 생태계를 만들어갑시다! "
 
 # Post (blog, articles etc.)
 [post_byline_by]

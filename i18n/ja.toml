@@ -25,6 +25,21 @@ other = "All Rights Reserved"
 [footer_privacy_policy]
 other = "プライバシーポリシー"
 
+# Used in sentences newsletter subscribe
+[subs_name]
+other = "名前"
+
+[subs_mail]
+other = "メール"
+
+[subs_button]
+other = "購読する"
+
+[subs_join]
+other = "購読に参加しましょう！"
+
+[subs_sent]
+other = "RuyiSDKはオープンソースソフトウェアとして、開発者に最高品質で最も便利な開発ツールとリソースを提供することを目指しています。私たちと密接に連絡を取り、最新の動向と更新情報をいち早く受け取りたいですか？今すぐ私たちのウェブサイトを購読して、最新バージョンのリリース通知、開発のヒントとベストプラクティス、他の開発者との交流の機会を得ましょう。私たちの購読者に加わり、一緒により強力で優れた開発エコシステムを築き上げましょう！  "
 
 # Post (blog, articles etc.)
 [post_byline_by]
